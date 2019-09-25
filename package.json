@@ -1,0 +1,35 @@
+{
+  "name": "sungura",
+  "version": "1.0.0",
+  "description": "Node.js client to build workers with PUB/SUB pattern and rabbitMQ",
+  "main": "lib/sungura.js",
+  "scripts": {
+    "format": "semistandard --fix",
+    "test:lint": "semistandard --verbose | snazzy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webinmove/sungura.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "pubsub",
+    "topic",
+    "pub",
+    "sub",
+    "topics"
+  ],
+  "author": "Louis Borsu <sat@satprod.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webinmove/sungura/issues"
+  },
+  "homepage": "https://github.com/webinmove/sungura#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  },
+  "devDependencies": {
+    "semistandard": "^14.2.0",
+    "snazzy": "^8.0.0"
+  }
+}
