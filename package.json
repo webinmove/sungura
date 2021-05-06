@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/webinmove/sungura#readme",
   "dependencies": {
-    "amqplib": "^0.5.5"
+    "amqplib": "^0.7.1"
   },
   "devDependencies": {
-    "semistandard": "^14.2.0",
+    "semistandard": "^11.0.0",
     "snazzy": "^8.0.0"
   }
 }
