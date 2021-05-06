@@ -1,7 +1,7 @@
 # Sungura
 
 [![CircleCI](https://circleci.com/gh/webinmove/sungura.svg?style=svg)](https://circleci.com/gh/webinmove/sungura)
-[![npm version](https://img.shields.io/npm/v/sungura.svg)](https://www.npmjs.com/package/sungura)
+[![npm version](https://img.shields.io/npm/v/@webinmove/sungura.svg)](https://www.npmjs.com/package/@webinmove/sungura)
 [![Dependency Status](https://img.shields.io/david/webinmove/sungura.svg?style=flat-square)](https://david-dm.org/webinmove/sungura)
 
 Node.js client to build workers with PUB/SUB pattern and rabbitMQ
