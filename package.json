@@ -1,6 +1,6 @@
 {
   "name": "@webinmove/sungura",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Node.js client to build workers with PUB/SUB pattern and rabbitMQ",
   "main": "lib/sungura.js",
   "scripts": {
