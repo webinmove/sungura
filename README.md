@@ -17,6 +17,7 @@ $ npm install sungura
 ## Usage
 
 ### Import in your project
+
 ```js
 // require sungura
 const { sungura } = require('sungura');
